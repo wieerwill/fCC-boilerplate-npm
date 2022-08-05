@@ -1,5 +1,6 @@
 {
-	"name": "wieerwill",
+	"name": "Backend Boiler",
+	"author" : "wieerwill",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
