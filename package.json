@@ -1,6 +1,6 @@
 {
 	"name": "Backend Boiler",
-	"author" : "wieerwill",
+	"author": "wieerwill",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/wieerwill/fCC-boilerplate-npm.git"
 	}
 }
