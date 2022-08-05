@@ -2,6 +2,7 @@
 	"name": "Backend Boiler",
 	"author": "wieerwill",
 	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "related", "words" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
